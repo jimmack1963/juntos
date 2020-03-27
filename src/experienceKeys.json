@@ -1,0 +1,36 @@
+{
+  "nogo": {
+    "keys": [
+      "financial.debt",
+      "financial.family",
+      "financial.roi",
+      "self esteem.fail",
+      "transportation.time",
+      "housing.home",
+      "no parents.encouragement",
+      ""
+    ],
+    "visible": {
+      "english": {
+          "financial.debt": "Don't want to go into debt",
+          "financial.family": "Have to help my family first",
+          "financial.roi": "I'll never earn enough to make it worth the effort",
+          "self esteem.fail": "I fail too much",
+          "transportation.time": "The bus takes too long",
+          "housing.home": "I have to live at home",
+          "no parents.encouragement": "No one will make me do my homework",
+        "": ["empty placeholder, insert before this"]
+      },
+      "espanol": {
+          "financial.debt": "No quiero endeudarme",
+          "financial.family": "Primero tengo que ayudar a mi familia",
+          "financial.roi": "Nunca ganaré lo suficiente para que valga la pena",
+          "self esteem.fail": "Fallo demasiado",
+          "transportation.time": "El bus tarda demasiado",
+          "housing.home": "Tengo que vivir con familia",
+          "no parents.encouragement": "Nadie me hará hacer mi tarea",
+        "": ["empty placeholder, insert before this"]
+      }
+    }
+  }
+}
